@@ -1,0 +1,12 @@
+{
+  "appId": "com.electron.desktop",
+  "productName": "NeteaseCloudMusic",
+  "copyright": "Copyright © 2022 xlz122",
+  "directories": {
+    "output": "release/${version}"
+  },
+  "win": {
+    "icon": "public/favicon.ico",
+    "artifactName": "${productName}_${version}.${ext}"
+  }
+}
